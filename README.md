@@ -43,8 +43,8 @@ services to deliver personalized training, assessment, and feedback.
 - Adaptive learning workflows
 - Enterprise-ready design
 
-## Demo
-See demo video link in `/demos/`
+## Demo (Video of user and agent's response)
+See demo video link in `https://drive.google.com/drive/folders/1WNu0zBBWlhGyMf0ZUYQ1NYXDv5VTz-qf?`
 
 
 ## Learning Agent
