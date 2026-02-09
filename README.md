@@ -14,15 +14,6 @@ adaptive-learning-assistant/
 │   ├── training-content/
 │   ├── assessments/
 │   └── feedback/
-│
-├── architecture/
-│   └── architecture.png
-│
-├── screenshots/
-│   ├── agents.png
-│   ├── rag-connection.png
-│   ├── search-index.png
-│   └── demo-chat.png
 
 
 # Adaptive Learning Assistant for Enterprise Training
@@ -44,7 +35,7 @@ services to deliver personalized training, assessment, and feedback.
 - Enterprise-ready design
 
 ## Demo (Video of user and agent's response)
-See demo video link in `https://drive.google.com/drive/folders/1WNu0zBBWlhGyMf0ZUYQ1NYXDv5VTz-qf?usp=drive_link`
+See demo video link in `https://drive.google.com/file/d/1HKiskCWma1nZZfKhVMqohw3U5gt_Gmxn/view?usp=drive_link`
 
 
 ## Learning Agent
